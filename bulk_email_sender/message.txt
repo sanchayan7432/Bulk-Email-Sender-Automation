@@ -1,0 +1,25 @@
+Subject: Automated Email System Test Notification
+
+Dear Recipient,
+
+This message is part of a scheduled test of our automated email delivery system.
+
+The purpose of this email is to verify that the system responsible for sending automated notifications, reports, and alerts is functioning correctly. No action is required from your side.
+
+If you have received this message, it indicates that the email automation service is currently operational and able to deliver messages successfully.
+
+Please note:
+• This is a system-generated test email.
+• The content of this message is intended solely for testing and verification purposes.
+• No reply or further action is required.
+
+If you believe this message was sent to you in error or have any questions regarding this notification, please contact the system administrator.
+
+Thank you for your time and cooperation.
+
+Best regards,
+
+Automation System  
+Email Notification Service  
+IT Operations Team
+SANCHAYAN GHOSH
