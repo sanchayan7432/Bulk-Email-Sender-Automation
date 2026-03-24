@@ -19,7 +19,7 @@ This project is a Python-based bulk email automation tool powered by the Gmail A
 1. Clone the repository:
 ```
 git clone https://github.com/sanchayan7432/Bulk-Email-Sender-Automation.git
-cd Bulk-Email-Sender-Automation
+cd Bulk-Email-Sender-Automation/bulk_email_sender
 ```
 2. Create and activate a virtual environment:
 ```
